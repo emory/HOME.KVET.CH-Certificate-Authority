@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG/MacGPG2 v2.0.27
+Comment: GPGTools on OSX — https://gpgtools.org
+Comment: keybase/@emory
+
+iQIcBAABCgAGBQJVcis+AAoJEOucny9+6wQDcLAP/0lCMWDsWmCuIC9aM20w7RQr
+98y8wBWuw7JYbSxMRQtpIKSlkWw0MFLvigrz0ChMEj5lpXh2pTle9DBMMY7REVyB
+EZjhnToUwoV0hZ5LISg9KrAs/B2Hq2LQotWYzki8jjLyvNGpPdmbElynFvANX8Qu
+fZQnf5ebCrOHzlj/7KQWwwSx3YVCTtLzAdG5ExpP2fBXQHtiMUPkIxa+oe+szonw
+gbjhx9RVkOzoImpflIlGi6kzEGV3WwgJ35DY0brm+eFJpsIEkVkVpyBlegZO0cI0
+21nFpMNrhRaAvcD5L+39DfdV4iwaas//b7yklRXc9vAGKH56ypDdico529d1tr9d
+S/Wm3ymJxeSaLuaz0k2MvYf/TWUHsp4TbeXIHDMCMDqGm0QCU/104aOCQM3entM2
+RtjVuWrJJGuoF38BRmBCvL4qLyqZ72/5wAJkwJ+b1XTDE63ACxeHn1dshDuY3c/A
+1M/g3PeGjmtUoI3AVegcF3kb1WMEoc0rHdIEmMPfsQ9Jaiir29br16+ZOzXNBOuG
+aRVmbaFOAJ2oYWWVPgexoTAcFRu2rqhWEll5BxiKzUS17QJwJ8YmxLeDHuzPEYO2
+B88TH09898ySosaSHXgbfKQiB3mdDP9xPly2w8n/GPtu3BA+zfsbOTqTb3ify6Ya
+htubpjC5dtWh3Ll9eEtz
+=zW7O
+-----END PGP SIGNATURE-----
